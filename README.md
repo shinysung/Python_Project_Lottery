@@ -1,4 +1,4 @@
-Project name : Lottery Simulator
+Project name : Lottery Simulator\n
 Description :
 
 Lottery announces winners once a week. 
